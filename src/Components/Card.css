@@ -1,0 +1,19 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color:  rgb(255, 255, 91);
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.product_box{
+  font-size: 100px;
+  padding-top: 10px;
+  margin-bottom: -40px;
+}
+.purchase{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
